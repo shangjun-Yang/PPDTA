@@ -1,0 +1,17 @@
+dataset.py filter=lfs diff=lfs merge=lfs -text
+test_model.py filter=lfs diff=lfs merge=lfs -text
+train.py filter=lfs diff=lfs merge=lfs -text
+KAN.py filter=lfs diff=lfs merge=lfs -text
+data_prepare.py filter=lfs diff=lfs merge=lfs -text
+dataset filter=lfs diff=lfs merge=lfs -text
+data_ppi.py filter=lfs diff=lfs merge=lfs -text
+log filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+metrics.py filter=lfs diff=lfs merge=lfs -text
+model.py filter=lfs diff=lfs merge=lfs -text
+module_test.py filter=lfs diff=lfs merge=lfs -text
+utils filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+config.py filter=lfs diff=lfs merge=lfs -text
+module_drug.py filter=lfs diff=lfs merge=lfs -text
+module_protein.py filter=lfs diff=lfs merge=lfs -text
