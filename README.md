@@ -23,7 +23,7 @@ PPDTA: Predicting Drug-Target Binding Affinity Using Pharmacophore Fingerprints 
 For using our model more conveniently, we provide the requirements file <requirements .txt>  to install environment directly.
 
 ```python
-pip install requirements .txt
+pip install requirements.txt
 ```
 
 ## Dataset
@@ -53,4 +53,5 @@ We use three datasets, i.e. Davis, KIBA and BindingDB_Kd datasets.
 ## Contact
 
 If you have any questions, please feel free to contact Jiao Wang (Email: wangjiao@mail.imu.edu.cn)
+
 
