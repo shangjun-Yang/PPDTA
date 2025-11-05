@@ -3,7 +3,7 @@ PPDTA: Predicting Drug-Target Binding Affinity Using Pharmacophore Fingerprints 
 
 ## Model Architecture 
 
-![image-20240813200325041](./image/model.png)
+![image-20240813200325041](./image.png)
 
 ## Requirements
 
@@ -53,3 +53,4 @@ We use three datasets, i.e. Davis, KIBA and BindingDB_Kd datasets.
 ## Contact
 
 If you have any questions, please feel free to contact Jiao Wang (Email: wangjiao@mail.imu.edu.cn)
+
